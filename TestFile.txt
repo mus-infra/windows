@@ -1,0 +1,30 @@
+Tue Jun 05 11:20:37 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Jun 05 11:20:37 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Jun 05 11:20:54 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox3.1\defaults\settings\S_localhost.tb (Access is denied)
+Tue Jun 05 11:20:54 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox\defaults\settings\S_localhost.tb (Access is denied)
+Fri Jul 27 12:50:16 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Fri Jul 27 12:50:16 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Fri Jul 27 12:50:26 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox3.1\defaults\settings\S_localhost.tb (Access is denied)
+Fri Jul 27 12:50:26 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox\defaults\settings\S_localhost.tb (Access is denied)
+Thu Sep 13 16:35:30 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox3.1\defaults\settings\S_localhost.tb (Access is denied)
+Thu Sep 13 16:35:30 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox\defaults\settings\S_localhost.tb (Access is denied)
+Fri Oct 05 09:38:10 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Fri Oct 05 09:38:10 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Fri Oct 05 09:38:27 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox3.1\defaults\settings\S_localhost.tb (Access is denied)
+Fri Oct 05 09:38:27 EDT 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox\defaults\settings\S_localhost.tb (Access is denied)
+Wed Oct 10 19:45:15 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Wed Oct 10 19:45:15 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Wed Oct 10 19:46:49 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Wed Oct 10 19:46:49 EDT 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Nov 13 12:34:50 EST 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Nov 13 12:34:50 EST 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Nov 13 12:35:02 EST 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox3.1\defaults\settings\S_localhost.tb (Access is denied)
+Tue Nov 13 12:35:02 EST 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox\defaults\settings\S_localhost.tb (Access is denied)
+Tue Nov 13 12:48:06 EST 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Nov 13 12:48:06 EST 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Nov 13 12:48:12 EST 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox3.1\defaults\settings\S_localhost.tb (Access is denied)
+Tue Nov 13 12:48:12 EST 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox\defaults\settings\S_localhost.tb (Access is denied)
+Tue Nov 13 14:31:41 EST 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Nov 13 14:31:41 EST 2007 -----> Proxy: (DOT4_001) IO Proxy Exception: res_err_unknown
+Tue Nov 13 14:31:55 EST 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox3.1\defaults\settings\S_localhost.tb (Access is denied)
+Tue Nov 13 14:31:55 EST 2007 PersistenceItem:SaveObject: java.io.FileNotFoundException: C:\Program Files\Hewlett-Packard\Toolbox\Apache Tomcat 4.0\webapps\Toolbox\defaults\settings\S_localhost.tb (Access is denied)
